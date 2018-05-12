@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35002
     wikipedia: http://de.wikipedia.org/wiki/Franz_Adam_Beyerlein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31099#-Jena-or-Sedan--
 gutenberg_issued: '2010-01-27'
 gutenberg_type: Text
 identifiers:
